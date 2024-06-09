@@ -12,4 +12,5 @@ $ zig version
 $ zig build run
 Device name: NVIDIA A40
 Current power usage: 79.472 W
+Power limit reset to default (300 W)
 ```
